@@ -130,5 +130,5 @@ Un ejemplo práctico de cómo las estructuras de datos son vitales en la vida re
 Además, para sugerir amistades, la red social puede utilizar una estructura de datos no lineal, como una "tabla de dispersión" o "hash table", para indexar rápidamente los perfiles de usuario y encontrar conexiones potenciales. Los algoritmos asociados, como el algoritmo de búsqueda de caminos más cortos (por ejemplo, Dijkstra), pueden usarse para calcular la ruta más rápida entre dos usuarios y así sugerir amistades que tengan intereses comunes o amigos en común.
 
 ## Proyecto
-El proyecto se encuentra actualmente disponible Aqui [Descargar PDF](ruta/al/archivo.pdf)
+El proyecto se encuentra actualmente disponible Aqui [Descargar PDF](enunciado%202023-30.pdf)
 
