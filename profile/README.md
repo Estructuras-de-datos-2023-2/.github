@@ -1,5 +1,17 @@
 # Estructuras de Datos - Curso Universitario
 
+## Indices
+
+1. [Descripción](#descripción)
+2. [Objetivos de Formación](#objetivos-de-formación)
+3. [Contenidos Temáticos](#contenidos-temáticos)
+4. [Estrategias Pedagógicas](#estrategias-pedagógicas)
+5. [Evaluación](#evaluación)
+6. [Recursos Bibliográficos](#recursos-bibliográficos)
+7. [Horario y Carga Horaria](#horario-y-carga-horaria)
+8. [Contenidos](#contenidos)
+9. [Ejemplo de Aplicación en la Vida Real](#ejemplo-de-aplicación-en-la-vida-real)
+10. [Proyecto](#proyecto)
 ## Descripción
 
 En el desarrollo de software, es común tratar con grandes cantidades de información que requieren una representación lógica, ordenada y manejable. Las **Estructuras de Datos** son fundamentales para el funcionamiento eficiente de los sistemas de cómputo y almacenamiento en la vida real. Este curso se enfoca en el estudio de las estructuras contenedoras de datos básicas y los algoritmos relacionados con ellas, con un enfoque en proyectos de desarrollo de software de mediana complejidad que aborden problemas reales.
@@ -117,4 +129,6 @@ Un ejemplo práctico de cómo las estructuras de datos son vitales en la vida re
 
 Además, para sugerir amistades, la red social puede utilizar una estructura de datos no lineal, como una "tabla de dispersión" o "hash table", para indexar rápidamente los perfiles de usuario y encontrar conexiones potenciales. Los algoritmos asociados, como el algoritmo de búsqueda de caminos más cortos (por ejemplo, Dijkstra), pueden usarse para calcular la ruta más rápida entre dos usuarios y así sugerir amistades que tengan intereses comunes o amigos en común.
 
+## Proyecto
+El proyecto se encuentra actualmente disponible Aqui [Descargar PDF](ruta/al/archivo.pdf)
 
